@@ -37,6 +37,7 @@ $flex-map: (
   animation-name: $animationName;
   animation-delay: $animationDelay;
   animation-duration: $animationDuration;
+  // animation-iteration-count: infinite;
   animation-fill-mode: both;
 }
 

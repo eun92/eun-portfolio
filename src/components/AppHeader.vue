@@ -38,10 +38,6 @@ export default {}
     .header__inner {
       align-items: center;
     }
-
-    // * {
-    //   color: #000;
-    // }
   }
 
   &__inner {
