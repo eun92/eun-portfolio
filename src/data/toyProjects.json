@@ -8,10 +8,10 @@
         "정답/오답 체크 및 결과 저장 후 출력"
       ],
       "workingPeriod": "2022.02.12 ~ 2022.02.15 (약 4일)",
-      "skills": "공공데이터 Open Api, vue, scss, Element ui, netlify",
+      "skills": "공공데이터 Open Api, vue, scss, Element ui, firebase hosting",
       "github": "https://github.com/eun92/vue2-capital-quiz",
       "notion": "https://www.notion.so/Vue-d1919de545674f5d92c2284b5fe3bd91",
-      "url": "https://stoic-mestorf-566c14.netlify.app/",
+      "url": "https://vue2-country-quiz.web.app/",
       "image": ["toy/quiz1.png"]
     },
     {
