@@ -1,0 +1,139 @@
+{
+  "projects": [
+    {
+      "name": "수리과학정보 체험센터",
+      "description": "강원교육과학정보원 주최 체험 소개 및 예약 사이트",
+      "workingPeriod": "2021.06 ~ 2021.08 (약 3개월)",
+      "skills": "git, nuxt, vue, scss, Element ui",
+      "url": "https://center.gwedu.go.kr/mathSciences/user/main/user_main",
+      "image": ["history/math1.png"]
+    },
+    {
+      "name": "교직원집합연수/원격교육연수원",
+      "description": "강원교육과학정보원 교직원 연수 소개 및 수강 사이트",
+      "workingPeriod": "2021.03 ~ 2021.05 (약 2개월 반)",
+      "skills": "svn, nuxt, vue, css, Element ui",
+      "url": "https://learning.gwedu.go.kr/lms/ontact/main/ontact_main",
+      "image": ["history/lms1.png"]
+    },
+    {
+      "name": "설문/통계 시스템",
+      "description": "강원교육과학정보원 설문 제작 및 통계 관리 시스템",
+      "workingPeriod": "2021.01 ~ 2021.03 (약 2개월 반)",
+      "skills": "svn, nuxt, vue, css, Element ui",
+      "url": "https://survey.gwedu.go.kr/survey/login/survey_login",
+      "image": ["history/survey1.png"]
+    },
+    {
+      "name": "전자책 출판 시스템",
+      "description": "강원교육과학정보원 전자책 등록 및 조회 페이지",
+      "workingPeriod": "2020.11 ~ 2021.01 (약 2개월 반)",
+      "skills": "svn, nuxt, vue, css, Element ui",
+      "url": "https://contents.gwedu.go.kr/ebook/login/ebook_login",
+      "image": ["history/ebook1.png"]
+    },
+    {
+      "name": "KCC AM",
+      "description": "KCC 소재 관련 페이지",
+      "workingPeriod": "2021.02 ~ 2021.05 (약 2개월 반)",
+      "skills": "svn, nuxt, vue, scss, Element ui",
+      "url": "https://kccmaterials.com/kccam/user/main/user_main",
+      "image": ["history/kcc_am.png"]
+    },
+    {
+      "name": "KCC SFA 모바일",
+      "description": "KCC 영업 관리 시스템 모바일",
+      "workingPeriod": "2020.09 ~ 2020.10 (약 1개월)",
+      "skills": "svn, jsp, css, jquery, Bootstrap",
+      "image": ["history/kcc_sfa_mobile.png"]
+    },
+    {
+      "name": "청년재단 청년의 날 이벤트",
+      "description": "2020년 청년의 날 시행했던 이벤트 페이지",
+      "workingPeriod": "2020.09 ~ 2020.10 (약 3일)",
+      "skills": "svn, jsp, css, jquery",
+      "image": ["history/with_youth.png"]
+    },
+    {
+      "name": "KCC GLASS 모바일",
+      "description": "KCC GLASS 영업 관리 시스템 모바일",
+      "workingPeriod": "2020.09 ~ 2020.10 (약 3일)",
+      "skills": "svn, nuxt, vue, css, Vuetify",
+      "image": ["history/kcc_glass_mobile.png"]
+    },
+    {
+      "name": "천랩 것인사이드 리포트 모바일",
+      "description": "장과 관련된 검사 결과 리포트를 모바일로 조회할 수 있는 시스템",
+      "workingPeriod": "2020.06 ~ 2020.06 (약 11일)",
+      "skills": "git, css, jquery, Bootstrap",
+      "image": ["history/gut_inside_mobile.png"]
+    },
+    {
+      "name": "한국통상정보학회",
+      "description": "한국통상정보학회 홈페이지 리뉴얼",
+      "workingPeriod": "2020.03 ~ 2020.04 (약 1개월)",
+      "skills": "svn, jsp, css, jquery, Bootstrap",
+      "image": ["history/cybertrade1.png"],
+      "url": "https://www.cybertrade.or.kr/"
+    },
+    {
+      "name": "아라플랫폼 헤이로",
+      "description": "변호사 견적 서비스 및 다양한 법률 관련 서비스 제공",
+      "workingPeriod": "2020.02 ~ 2020.03 (약 1개월)",
+      "skills": "svn, vue, css, jquery, Bootstrap",
+      "image": ["history/heylaw.png"],
+      "url": "https://heylaw.co.kr/"
+    },
+    {
+      "name": "아라플랫폼",
+      "description": "아라플랫폼 소개 페이지",
+      "workingPeriod": "2020.01 ~ 2020.01 (약 4일)",
+      "skills": "svn, jsp, css, jquery, Bootstrap",
+      "image": ["history/araplatform.png"],
+      "url": "http://ara-platform.com/"
+    },
+    {
+      "name": "안심링크 모바일",
+      "description": "링크 안전 여부 체크 시스템",
+      "workingPeriod": "2020.01 ~ 2020.01 (약 10일)",
+      "skills": "svn, jsp, css, jquery, Bootstrap",
+      "image": ["history/safe_link_mobile.png"]
+    },
+    {
+      "name": "대림 스마트 견적",
+      "description": "대림 관련 상품 선택해 견적 내볼 수 있는 페이지",
+      "workingPeriod": "2019.08 ~ 2019.09 (약 1개월)",
+      "skills": "html, css, jquery",
+      "image": ["history/smart_estimate.png"]
+    },
+    {
+      "name": "KCC 리피니시 모바일",
+      "description": "이미 존재하는 웹화면을 토대로 모바일 화면 제작",
+      "workingPeriod": "2019.07 ~ 2019.08 (약 1개월)",
+      "skills": "svn, jsp, css, jquery, Bootstrap",
+      "image": ["history/kcc_refinish_mobile.jpg"]
+    },
+    {
+      "name": "안심 와이파이",
+      "description": "와이파이 안전 여부 체크해주는 사이트",
+      "workingPeriod": "2019.07 ~ 2019.08 (약 1개월)",
+      "skills": "svn, jsp, css, jquery, Bootstrap",
+      "image": ["history/safe_wifi.png"]
+    },
+    {
+      "name": "Raps",
+      "description": "랩스 휘트니트 센터 관리 페이지",
+      "workingPeriod": "2018.12 ~ 2019.08 (약 8개월)",
+      "skills": "svn, jsp, css, jquery, Bootstrap",
+      "image": ["history/raps.png"],
+      "url": "http://therapsworld.com/"
+    },
+    {
+      "name": "KCC SFA",
+      "description": "KCC 영업 관리 시스템 웹",
+      "workingPeriod": "2018.07 ~ 2019.02 (약 7개월)",
+      "skills": "svn, jsp, css, jquery, Bootstrap",
+      "image": ["history/kcc_sfa.png"]
+    }
+  ]
+}
