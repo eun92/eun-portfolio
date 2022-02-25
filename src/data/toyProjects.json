@@ -10,7 +10,7 @@
       "workingPeriod": "2022.02.12 ~ 2022.02.15 (약 4일)",
       "skills": "공공데이터 Open Api, vue, scss, Element ui, firebase hosting",
       "github": "https://github.com/eun92/vue2-capital-quiz",
-      "notion": "https://www.notion.so/Vue-d1919de545674f5d92c2284b5fe3bd91",
+      "notion": "https://sage-bridge-73c.notion.site/Vue-d1919de545674f5d92c2284b5fe3bd91",
       "url": "https://vue2-country-quiz.web.app/",
       "image": ["toy/quiz1.png"]
     },
@@ -21,7 +21,7 @@
       "workingPeriod": "2022.02.08 ~ 2022.02.09 (약 2일)",
       "skills": "html, css, javascript",
       "github": "https://github.com/eun92/js-mini-shopping",
-      "notion": "https://www.notion.so/Javascript-feat-b2e67151571f4932b25111550480b6f4",
+      "notion": "https://sage-bridge-73c.notion.site/Javascript-feat-b2e67151571f4932b25111550480b6f4",
       "url": "",
       "image": ["toy/mini-shopping1.png"]
     },
@@ -38,7 +38,7 @@
       "workingPeriod": "2022.01.10 ~ 2022.02.06 (약 4주)",
       "skills": "Firebase, vue, scss, Element ui",
       "github": "https://github.com/eun92/vue2-memo-app",
-      "notion": "https://www.notion.so/Vue-Firebase-840087fc7e1a47c396ad85d71e5f4105",
+      "notion": "https://sage-bridge-73c.notion.site/Vue-Firebase-840087fc7e1a47c396ad85d71e5f4105",
       "url": "https://vue2-memo-app.web.app/",
       "image": ["toy/memo1.png"]
     },
@@ -54,7 +54,7 @@
       "workingPeriod": "2021.11.29 ~ 2021.12.20 (약 3주)",
       "skills": "vue, css, Bootstrap",
       "github": "https://github.com/eun92/vue2-trello",
-      "notion": "https://www.notion.so/Vue-feat-c05215b126b2400183f3daa3207d8b11",
+      "notion": "https://sage-bridge-73c.notion.site/Vue-feat-c05215b126b2400183f3daa3207d8b11",
       "url": "",
       "image": ["toy/trello1.png"]
     },
@@ -68,7 +68,7 @@
       "workingPeriod": "2021.11.02 ~ 2022.11.23 (약 3주)",
       "skills": "OMDB Api, nuxt, vue, scss, Bootstrap, heroku",
       "github": "https://github.com/eun92/nuxt-movie-app",
-      "notion": "https://www.notion.so/Vue-nuxt-feat-c27cb9b8b9e247eaae779765877bf7e6",
+      "notion": "https://sage-bridge-73c.notion.site/Vue-nuxt-feat-c27cb9b8b9e247eaae779765877bf7e6",
       "url": "https://heroku-nuxt-movie-app.herokuapp.com/",
       "image": ["toy/movie1.png"]
     }
