@@ -1,6 +1,7 @@
 # 프로젝트<br>
 
 ### 프론트엔드 개발자 이정은 포트폴리오<br>
+notion : https://sage-bridge-73c.notion.site/Portfolio-8e7e213b1eeb4d9893231126fcbc672d <br>
 firebase url : https://eun-portfolio.web.app/ <br>
 ** 크롬 웹브라우저 기준으로 작업, 크롬 브라우저에서 확인 요망<br>
 ** 반응형으로 작업하였지만 mobile보다 pc에서 확인하시면 더 좋습니다.<br>
