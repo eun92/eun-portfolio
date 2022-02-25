@@ -12,7 +12,7 @@ firebase url : https://eun-portfolio.web.app/ <br>
 1. database : json 파일
 2. js framework : Vue.js
 3. style : SCSS
-4. hosting : firebase
+4. hosting : Firebase
 
 # 주요 기능
 
