@@ -80,7 +80,7 @@
       "name": "아라플랫폼 헤이로",
       "description": "변호사 견적 서비스 및 다양한 법률 관련 서비스 제공",
       "workingPeriod": "2020.02 ~ 2020.03 (약 1개월) / 2020.05 ~ 2021.06 (약 1년)",
-      "skills": "svn, vue, css, jquery, Bootstrap",
+      "skills": "svn, html, vue, css, jquery, Bootstrap",
       "image": ["history/heylaw.png"],
       "url": "https://heylaw.co.kr/"
     },
@@ -88,7 +88,7 @@
       "name": "아라플랫폼",
       "description": "아라플랫폼 소개 페이지",
       "workingPeriod": "2020.01 ~ 2020.01 (약 4일)",
-      "skills": "svn, jsp, css, jquery, Bootstrap",
+      "skills": "svn, html, css, jquery, Bootstrap",
       "image": ["history/araplatform.png"],
       "url": "http://ara-platform.com/"
     },
