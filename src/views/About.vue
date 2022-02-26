@@ -21,7 +21,6 @@
             1992.01.31<br />
             010-2737-2394<br />
             qoo0131@naver.com<br />
-            서울특별시 양천구 목동<br />
           </p>
 
           <a href="https://github.com/eun92" target="_blank" class="link">
