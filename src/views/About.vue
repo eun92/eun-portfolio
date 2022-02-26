@@ -21,8 +21,12 @@
             1992.01.31<br />
             010-2737-2394<br />
             qoo0131@naver.com<br />
-            서울특별시 양천구 목동
+            서울특별시 양천구 목동<br />
           </p>
+
+          <a href="https://github.com/eun92" target="_blank" class="link">
+            <img src="@/assets/images/icon/github.png" />
+          </a>
         </div>
         <div class="about__item">
           <h3 class="title">
@@ -139,6 +143,7 @@
   }
 
   &__item {
+    position: relative;
     width: 48%;
     margin: 1%;
     padding: rem(20);
@@ -150,6 +155,16 @@
       $animationDelay: 0.3s,
       $animationDuration: 0.8s
     );
+
+    .link {
+      position: absolute;
+      bottom: rem(5);
+      right: rem(10);
+
+      img {
+        width: rem(28);
+      }
+    }
 
     .title {
       display: inline-flex;
