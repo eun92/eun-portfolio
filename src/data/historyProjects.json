@@ -13,7 +13,6 @@
       "description": "강원교육과학정보원 교직원 연수 소개 및 수강 사이트",
       "workingPeriod": "2021.03 ~ 2021.05 (약 2개월 반)",
       "skills": "svn, nuxt, vue, css, Element ui",
-      "url": "https://learning.gwedu.go.kr/lms/ontact/main/ontact_main",
       "image": ["history/lms1.png"]
     },
     {
@@ -21,7 +20,6 @@
       "description": "강원교육과학정보원 설문 제작 및 통계 관리 시스템",
       "workingPeriod": "2021.01 ~ 2021.03 (약 2개월 반)",
       "skills": "svn, nuxt, vue, css, Element ui",
-      "url": "https://survey.gwedu.go.kr/survey/login/survey_login",
       "image": ["history/survey1.png"]
     },
     {
@@ -29,7 +27,6 @@
       "description": "강원교육과학정보원 전자책 등록 및 조회 페이지",
       "workingPeriod": "2020.11 ~ 2021.01 (약 2개월 반)",
       "skills": "svn, nuxt, vue, css, Element ui",
-      "url": "https://contents.gwedu.go.kr/ebook/login/ebook_login",
       "image": ["history/ebook1.png"]
     },
     {
@@ -125,8 +122,7 @@
       "description": "랩스 휘트니트 센터 관리 페이지",
       "workingPeriod": "2018.12 ~ 2019.08 (약 8개월)",
       "skills": "svn, jsp, css, jquery, Bootstrap",
-      "image": ["history/raps.png"],
-      "url": "http://therapsworld.com/"
+      "image": ["history/raps.png"]
     },
     {
       "name": "KCC SFA",
