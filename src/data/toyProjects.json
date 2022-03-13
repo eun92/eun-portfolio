@@ -8,7 +8,7 @@
         "정답/오답 체크 후 vuex를 이용한 store에 결과 저장 후 출력"
       ],
       "workingPeriod": "2022.02.12 ~ 2022.02.15 (약 4일)",
-      "skills": "공공데이터 Open Api, vue, scss, Element ui, firebase hosting",
+      "skills": "공공데이터 Open Api, vue, vuex, scss, Element ui, firebase hosting",
       "github": "https://github.com/eun92/vue2-capital-quiz",
       "notion": "https://sage-bridge-73c.notion.site/Vue-d1919de545674f5d92c2284b5fe3bd91",
       "url": "https://vue2-country-quiz.web.app/",
@@ -39,7 +39,7 @@
         "전체 서체 변경"
       ],
       "workingPeriod": "2022.01.10 ~ 2022.02.06 (약 4주)",
-      "skills": "Firebase, vue, scss, Element ui",
+      "skills": "Firebase, vue, vuex, scss, Element ui",
       "github": "https://github.com/eun92/vue2-memo-app",
       "notion": "https://sage-bridge-73c.notion.site/Vue-Firebase-840087fc7e1a47c396ad85d71e5f4105",
       "url": "https://vue2-memo-app.web.app/",
@@ -55,7 +55,7 @@
         "카드 목록 조회/생성/수정/삭제/이동"
       ],
       "workingPeriod": "2021.11.29 ~ 2021.12.20 (약 3주)",
-      "skills": "vue, css, Bootstrap",
+      "skills": "vue, vuex, css, Bootstrap",
       "github": "https://github.com/eun92/vue2-trello",
       "notion": "https://sage-bridge-73c.notion.site/Vue-feat-c05215b126b2400183f3daa3207d8b11",
       "url": "",
@@ -69,7 +69,7 @@
         "영화 상세 정보 제공"
       ],
       "workingPeriod": "2021.11.02 ~ 2022.11.23 (약 3주)",
-      "skills": "OMDB Api, nuxt, vue, scss, Bootstrap, heroku",
+      "skills": "OMDB Api, nuxt, vue, vuex, scss, Bootstrap, heroku",
       "github": "https://github.com/eun92/nuxt-movie-app",
       "notion": "https://sage-bridge-73c.notion.site/Vue-nuxt-feat-c27cb9b8b9e247eaae779765877bf7e6",
       "url": "https://heroku-nuxt-movie-app.herokuapp.com/",
